@@ -11,6 +11,7 @@ ZSH_THEME="dannybachhuber"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias v=vagrant
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
