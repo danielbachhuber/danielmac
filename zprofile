@@ -2,7 +2,7 @@
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias git=/usr/local/bin/hub
 
-export PATH=$HOME/.rvm/bin:/opt/local/bin:/opt/local/sbin:~/bin:/usr/local/heroku/bin:$PATH
+export PATH=$HOME/.rvm/bin:~/bin:/usr/local/heroku/bin:$PATH
 export EDITOR=vim
 export VAGRANT_CWD=/Users/danielbachhuber/hmn
 
